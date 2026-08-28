@@ -1,3 +1,15 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Algoritimo e Estrutura de Dados 2026S1
+Nome        : Victor Hugo Ribeiro de Macedo
+Linguagem   : C
+Problema    : 1080 dinamico
+Data        : 28/08/2026
+Objetivo    : Leia 100 valores inteiros. Apresente então o maior valor lido e a posição dentre os 100 valores lidos. (dinamico)
+Dificuldade : facil (nivel 2)
+Uso de IA   : usei so pra fazer a varredura do codigo, nao mudei nada
+-------------------------------------------------------------------------- */
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #define MAX 100
