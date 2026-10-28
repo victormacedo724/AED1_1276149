@@ -1,3 +1,13 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Algoritimo e Estrutura de Dados 2026S1
+Nome        : Victor Hugo Ribeiro de Macedo
+Linguagem   : C
+Problema    : 1062
+Data        : 27/10/2026
+Objetivo    : Verificar se é possivel a permutação dos vagões conforme for pedido
+Dificuldade : dificil (nivel 5)
+Uso de IA   : moderado, mas a logica foi pensada por mim sozinho.
+-------------------------------------------------------------------------- */
 #include <stdio.h>
 #include <stdlib.h>
 
